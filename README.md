@@ -2,7 +2,7 @@
 
 Design Patterns
 
-https://www.patterns.dev/react/hooks-pattern
+https://www.patterns.dev
 
 https://refactoring.guru/design-patterns
 
