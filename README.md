@@ -2,10 +2,12 @@
 
 Design Patterns
 
-https://www.patterns.dev
+[Addy Osmani - Design Patterns](https://www.patterns.dev)
 
-https://refactoring.guru/design-patterns
+[Refactoring Guru](https://refactoring.guru/design-patterns)
 
 TypeScript
 
-https://www.totaltypescript.com/
+[Matt Pocock - Total TypeScript](https://www.totaltypescript.com)
+
+[React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app)
